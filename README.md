@@ -4,7 +4,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/expede?style=social) ![GitHub followers](https://img.shields.io/github/followers/expede?style=social)
 
-Hey there, I'm Brooke :wave: I'm a composer-turned-programmer living in beaurtiful, rainy Vancouver.
+Hey there, I'm Brooke :wave: I'm a composer-turned-programmer living in beautiful, rainy Vancouver.
 
 Depending on the community, I'm best known for:
 * [Witchcraft](https://hexdocs.pm/witchcraft/readme.html), which ports Haskell idioms to Elixir
