@@ -2,7 +2,7 @@
 
 ![handle](https://img.shields.io/badge/handle-@expede-purple) ![Pronouns](https://img.shields.io/badge/pronouns-she/her-ff69b4) ![location](https://img.shields.io/badge/location-🇨🇦%20Vancouver-blue)
 
-Hey there, I'm Brooke :wave: I'm a composer turned programmer, living in beaurtiful, rainy Vancouver.
+Hey there, I'm Brooke :wave: I'm a composer-turned-programmer living in beaurtiful, rainy Vancouver.
 
 Depending on the community, I'm best known for:
 * [Witchcraft](https://hexdocs.pm/witchcraft/readme.html), which ports Haskell idioms to Elixir
