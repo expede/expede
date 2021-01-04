@@ -25,7 +25,7 @@ I'm the cofounder and CTO at [Fission](https://fission.codes), where we're elimi
 
 ## 🗣🗺 Conference Talks
 
-I'm a frequent keynote speaker (talks [here](https://noti.st/expede)), often on the topics of the future of programming, and models of computation.
+I gives conference talks (slides [here](https://noti.st/expede)), often on the topics of functional programming, the future of programming, and models of computation.
 
 ## 🧑‍💻👩‍💻👨‍💻 Tech Community
 
