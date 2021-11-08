@@ -9,7 +9,7 @@ Hey there, I'm Brooke :wave: I'm a composer-turned-programmer living in beautifu
 Depending on the community, I'm best known for:
 * [Witchcraft](https://hexdocs.pm/witchcraft/readme.html), which ports Haskell idioms to Elixir
 * Specifying [Ethereum Virtual Machine improvements](https://eips.ethereum.org/EIPS/eip-615)
-* [UCAN](https://whitepaper.fission.codes/access-control/ucan/ucan-tokens), a form of distributed, user-owned [JWT](https://jwt.io/)+[SPKI](https://en.wikipedia.org/wiki/Simple_public-key_infrastructure) auth
+* [UCAN](https://whitepaper.fission.codes/access-control/ucan), a form of distributed, user-owned [JWT](https://jwt.io/)+[SPKI](https://en.wikipedia.org/wiki/Simple_public-key_infrastructure) auth
 
 ## 🙌 What I'm (Currently) Excited About
 
@@ -21,15 +21,15 @@ Depending on the community, I'm best known for:
 
 ## ⚛️ Fission
 
-I'm the cofounder and CTO at [Fission](https://fission.codes), where we're eliminating the need for a backend & DevOps (yes, serioulsy). The web as a platform is incredibly powerful, and we're giving everyone a native app feel, right in the browser, without plugins. Filesystem, DB, user-owned accounts & data, encryption at rest, automatic offline support, privacy out of the box, and everything else you'd need to get up and running with a modern web app. No messing around with k8s, no server setup, no differences between production and your local environment.
+I'm the cofounder and CTO at [Fission](https://fission.codes), where we're eliminating the need for a backend & DevOps (yes, seriously). The web as a platform is incredibly powerful, and we're giving everyone a native app feel, right in the browser, without plugins. Filesystem, DB, user-owned accounts & data, encryption at rest, automatic offline support, privacy out of the box, and everything else you'd need to get up and running with a modern web app. No messing around with k8s, no server setup, no differences between production and your local environment.
 
 ## 🗣🗺 Conference Talks
 
-I gives conference talks (slides [here](https://noti.st/expede)), often on the topics of functional programming, the future of programming, and models of computation.
+I give conference talks (slides [here](https://noti.st/expede)), often on the topics of functional programming, the future of programming, and models of computation.
 
 ## 🧑‍💻👩‍💻👨‍💻 Tech Community
 
-I've been involved in the tech community in Vancouer for several years now. I founded the [Vancouver Functional Programming Meetup](https://www.meetup.com/Vancouver-Functional-Programmers/), and for a few years helped organize [Code & Coffee YVR](https://www.meetup.com/codecoffeeyvr/). In 2018, we ran Conf & Coffee, a 2-day tech conference.
+I've been involved in the tech community in Vancouver for several years now. I founded the [Vancouver Functional Programming Meetup](https://www.meetup.com/Vancouver-Functional-Programmers/), and for a few years helped organize [Code & Coffee YVR](https://www.meetup.com/codecoffeeyvr/). In 2018, we ran Conf & Coffee, a 2-day tech conference.
 
 ## 🧙‍🔮🐈‍⬛✨ Witchcraft
 
@@ -40,7 +40,7 @@ What started as a teaching tool at the FP Meetup turned into a suite of librarie
 * [TypeClass](https://hexdocs.pm/type_class/readme.html)
 * [Witchcraft](https://hexdocs.pm/witchcraft/readme.html)
 
-You can help support Witchcraft by getting involved her eon GitHub, or contributing on [Open Collective](https://opencollective.com/witchcraft).
+You can help support Witchcraft by getting involved here on GitHub, or contributing on [Open Collective](https://opencollective.com/witchcraft).
 
 ## ⛓📦 Blockchain
 
