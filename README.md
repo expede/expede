@@ -52,3 +52,5 @@ Once upon a time, I was fairly involved with Ethereum. I coauthored a number of 
 * [EIP-1444: Localized Messaging with Signal-to-Text](https://eips.ethereum.org/EIPS/eip-1444)
 * [EIP-2315: Simple Subroutines for the EVM](https://eips.ethereum.org/EIPS/eip-2315)
 * [EIP-3779: Safer Control Flow for the EVM](https://eips.ethereum.org/EIPS/eip-3779)
+
+I've also been getting involved with the [Filecoin VM](https://github.com/filecoin-project/fvm-project) design.
