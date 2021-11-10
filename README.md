@@ -50,3 +50,5 @@ Once upon a time, I was fairly involved with Ethereum. I coauthored a number of 
 * [EIP-902: Token Validation](https://eips.ethereum.org/EIPS/eip-902)
 * [EIP-1066: Status Codes](https://eips.ethereum.org/EIPS/eip-1066)
 * [EIP-1444: Localized Messaging with Signal-to-Text](https://eips.ethereum.org/EIPS/eip-1444)
+* [EIP-2315: Simple Subroutines for the EVM](https://eips.ethereum.org/EIPS/eip-2315)
+* [EIP-3779: Safer Control Flow for the EVM](https://eips.ethereum.org/EIPS/eip-3779)
