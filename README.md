@@ -9,7 +9,7 @@ Hey there, I'm Brooke :wave: I'm a composer-turned-programmer living in beautifu
 Depending on the community, I'm best known for:
 * [Witchcraft](https://hexdocs.pm/witchcraft/readme.html), which ports Haskell idioms to Elixir
 * Specifying [Ethereum Virtual Machine improvements](https://eips.ethereum.org/EIPS/eip-615)
-* [UCAN](https://whitepaper.fission.codes/access-control/ucan/ucan-tokens), a form of distributed, user-owned [JWT](https://jwt.io/)+[SPKI](https://en.wikipedia.org/wiki/Simple_public-key_infrastructure) auth
+* [UCAN](https://whitepaper.fission.codes/access-control/ucan/differences-from-oauth#ucan), a form of distributed, user-owned [JWT](https://jwt.io/)+[SPKI](https://en.wikipedia.org/wiki/Simple_public-key_infrastructure) auth
 
 ## 🙌 What I'm (Currently) Excited About
 
