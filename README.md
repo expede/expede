@@ -19,6 +19,14 @@ Depending on the community, I'm best known for:
 * Tech community
 * Startups & advising
 
+
+# Live Stats 📊
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=expede&count_private=true&show_icons=true&layout=compact&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expede&count_private=true&langs_count=7&hide=html,postscript&exclude_repo=Machine-Learning-Course,dotfiles&layout=compact&theme=tokyonight" />
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=expede&theme=tokyonight)](https://git.io/streak-stats)
+
 ## Fission ⚛️ 
 
 I'm the cofounder and CTO at [Fission](https://fission.codes), where we're eliminating the need for a backend & DevOps (yes, serioulsy). The web as a platform is incredibly powerful, and we're giving everyone a native app feel, right in the browser, without plugins. Filesystem, DB, user-owned accounts & data, encryption at rest, automatic offline support, privacy out of the box, and everything else you'd need to get up and running with a modern web app. No messing around with k8s, no server setup, no differences between production and your local environment.
@@ -68,10 +76,3 @@ Once upon a time, I was fairly involved with Ethereum. I coauthored a number of 
 I also been getting involved with the [Filecoin VM](https://github.com/filecoin-project/fvm-project) design:
 
 * [Filecoin VM Architecture](https://github.com/filecoin-project/fvm-specs/blob/main/01-architecture.md) contributor
-
-# Live Stats 📊
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=expede&count_private=true&show_icons=true&layout=compact&theme=tokyonight" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expede&count_private=true&langs_count=7&hide=html,postscript&exclude_repo=Machine-Learning-Course,dotfiles&layout=compact&theme=tokyonight" />
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=expede&theme=tokyonight)](https://git.io/streak-stats)
