@@ -48,7 +48,7 @@ What started as a teaching tool at the FP Meetup turned into a suite of librarie
 * [TypeClass](https://hexdocs.pm/type_class/readme.html)
 * [Witchcraft](https://hexdocs.pm/witchcraft/readme.html)
 
-You can help support Witchcraft by getting involved her eon GitHub, or contributing on [Open Collective](https://opencollective.com/witchcraft).
+You can help support Witchcraft by getting involved here on GitHub, or contributing on [Open Collective](https://opencollective.com/witchcraft).
 
 ## Web3 :sparkles:🕸️:sparkles:
 
