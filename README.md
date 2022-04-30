@@ -31,7 +31,7 @@ I also give conference talks. You can find many of them on my [Notist profile](h
 
 ## Fission ⚛️ 
 
-I'm the cofounder and CTO at [Fission](https://fission.codes), where we're eliminating the need for a backend & DevOps (yes, serioulsy). The web as a platform is incredibly powerful, and we're giving everyone a native app feel, right in the browser, without plugins. Filesystem, DB, user-owned accounts & data, encryption at rest, automatic offline support, privacy out of the box, and everything else you'd need to get up and running with a modern web app. No messing around with k8s, no server setup, no differences between production and your local environment.
+I'm the cofounder and CTO at [Fission](https://fission.codes), where we're eliminating the need for a backend & DevOps (really!) The web as a platform is incredibly powerful, and we're building tools to give everyone a native app feel, right in the browser, without plugins. Filesystem (Webnatiev FS), DB (Dialog), user-owned accounts (UCAN) & data, encryption at rest, automatic offline support, privacy out of the box, and everything else you'd need to get up and running with a modern web app. No messing around with k8s, no server setup, no differences between production and your local environment.
 
 ## Conference Talks 🗣🗺 
 
