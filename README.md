@@ -58,9 +58,11 @@ Web3 is so much more than blockchain, though that's obviously included
 
 ### UCAN Auth <img style="height: 1rem;" src="https://avatars.githubusercontent.com/u/94576903?s=200&v=4" />
 
-I am the editor of the User Controlled Authorization Network (UCAN) specification. You can think about this as essentially a user-controlled, offline-first, extensible variant of OAuth that lets users directly authorize each oyther, or services to collaborate without prenegotiation.
+I am the editor of the [User Controlled Authorization Network](https://github.com/ucan-wg/) (UCAN) specification. You can think about UCAN as roughly an end-user controlled, offline-first, extensible, capabilities-based variant of OAuth that enables:
 
-* [UCAN Working Group](https://github.com/ucan-wg/)
+* Users to directly authorize each other without a backend at all
+* Services to collaborate without prenegotiation
+* Restrict processes to be only able to perform a narrow set of actions
 
 ### Ethereum <img style="height: 1rem;" src="https://ethereum.org/static/c48a5f760c34dfadcf05a208dab137cc/d1ef9/eth-diamond-rainbow.png" />
 
