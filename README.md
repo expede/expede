@@ -11,6 +11,8 @@ Depending on the community, I'm best known for:
 * Specifying [Ethereum Virtual Machine improvements](https://eips.ethereum.org/EIPS/eip-615)
 * [UCAN](https://whitepaper.fission.codes/access-control/ucan/differences-from-oauth#ucan), a form of distributed, user-owned [JWT](https://jwt.io/)+[SPKI](https://en.wikipedia.org/wiki/Simple_public-key_infrastructure) auth
 
+I also give conference talks. You can find many of them on my [Notist profile](https://noti.st/expede).
+
 ## What I'm (Currently) Excited About 🙌 
 
 * Programming languages & PLT
