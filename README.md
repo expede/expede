@@ -68,3 +68,10 @@ Once upon a time, I was fairly involved with Ethereum. I coauthored a number of 
 I also been getting involved with the [Filecoin VM](https://github.com/filecoin-project/fvm-project) design:
 
 * [Filecoin VM Architecture](https://github.com/filecoin-project/fvm-specs/blob/main/01-architecture.md) contributor
+
+# Live Stats 📊
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=expede&count_private=true&show_icons=true&layout=compact&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expede&count_private=true&langs_count=7&hide=html,postscript&exclude_repo=Machine-Learning-Course,dotfiles&layout=compact&theme=tokyonight" />
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=expede&theme=tokyonight)](https://git.io/streak-stats)
