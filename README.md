@@ -4,10 +4,6 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/expede?style=social) ![GitHub followers](https://img.shields.io/github/followers/expede?style=social)
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=expede&theme=onedark&&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="Trophies" />
-</p>
-
 Hey there, I'm Brooke :wave: I'm a composer-turned-programmer living in beautiful, rainy Vancouver.
 
 Depending on the community, I'm best known for:
@@ -27,6 +23,10 @@ I also give conference talks. You can find many of them on my [Notist profile](h
 
 
 # Live Stats 📊
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=expede&theme=onedark&&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="Trophies" />
+</p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=expede&count_private=true&show_icons=true&layout=compact&theme=tokyonight" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expede&count_private=true&langs_count=7&hide=html,postscript&exclude_repo=Machine-Learning-Course,dotfiles&layout=compact&theme=tokyonight" />
