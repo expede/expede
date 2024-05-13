@@ -21,7 +21,6 @@ I also give conference talks. You can find many of them on my [Notist profile](h
 * Tech community
 * Startups & advising
 
-
 # Live Stats 📊
 
 <p align="center">
@@ -32,10 +31,6 @@ I also give conference talks. You can find many of them on my [Notist profile](h
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expede&count_private=true&langs_count=7&hide=html,postscript&exclude_repo=Machine-Learning-Course,dotfiles&layout=compact&theme=tokyonight" />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=expede&theme=tokyonight)](https://git.io/streak-stats)
-
-## Fission ⚛️ 
-
-I'm the cofounder and CTO at [Fission](https://fission.codes), where we're eliminating the need for a backend & DevOps (really!) The web as a platform is incredibly powerful, and we're building tools to give everyone a native app feel, right in the browser, without plugins. Filesystem (Webnatiev FS), DB (Dialog), user-owned accounts (UCAN) & data, encryption at rest, automatic offline support, privacy out of the box, and everything else you'd need to get up and running with a modern web app. No messing around with k8s, no server setup, no differences between production and your local environment.
 
 ## Conference Talks 🗣🗺 
 
