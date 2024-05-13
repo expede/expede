@@ -2,7 +2,7 @@
 
 ![handle](https://img.shields.io/badge/handle-@expede-purple) [![Pronouns](https://img.shields.io/badge/pronouns-she/her-ff69b4)](http://pronoun.is/she) ![location](https://img.shields.io/badge/location-🇨🇦%20Vancouver-green) [![Editor](https://img.shields.io/badge/editor-doom&ndash;emacs-blue)](https://github.com/hlissner/doom-emacs)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/expede?style=social) ![GitHub followers](https://img.shields.io/github/followers/expede?style=social)
+<a href="https://bsky.app/profile/expede.wtf">![Bluesky Profile](https://img.shields.io/badge/bluesky-@expede.wtf-blue)</a> ![GitHub followers](https://img.shields.io/github/followers/expede?style=social)
 
 Hey there, I'm Brooke :wave: I'm a composer-turned-programmer living in beautiful, rainy Vancouver.
 
